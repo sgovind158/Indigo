@@ -1,22 +1,104 @@
 {
-  "data": [
+  "matrix": [
     {
-      "city": "aaa",
-      "country": "aaa",
-      "population": "aa",
+      "count": 1,
+      "alfa": "A",
+      "id": 1
+    },
+    {
+      "count": 1,
+      "alfa": "E",
+      "id": 2
+    },
+    {
+      "count": 1,
+      "alfa": "I",
+      "id": 3
+    },
+    {
+      "count": 3,
+      "alfa": "O",
       "id": 4
     },
     {
-      "city": "aa",
-      "country": "aa",
-      "population": "aa",
+      "count": 1,
+      "alfa": "U",
       "id": 5
     },
     {
-      "city": "aaaa",
-      "country": "aaaa",
-      "population": "aaaa",
+      "count": 0,
+      "alfa": "S",
       "id": 6
+    },
+    {
+      "count": 3,
+      "alfa": "P",
+      "id": 7
+    },
+    {
+      "count": 2,
+      "alfa": "F",
+      "id": 8
+    },
+    {
+      "count": 0,
+      "alfa": "P",
+      "id": 9
+    },
+    {
+      "count": 0,
+      "alfa": "L",
+      "id": 10
+    },
+    {
+      "count": 0,
+      "alfa": "T",
+      "id": 11
+    },
+    {
+      "count": 2,
+      "alfa": "C",
+      "id": 12
+    },
+    {
+      "count": 1,
+      "alfa": "X",
+      "id": 13
+    },
+    {
+      "count": 4,
+      "alfa": "A",
+      "id": 14
+    },
+    {
+      "count": 2,
+      "alfa": "E",
+      "id": 15
+    },
+    {
+      "count": 2,
+      "alfa": "I",
+      "id": 16
+    },
+    {
+      "count": 1,
+      "alfa": "O",
+      "id": 17
+    },
+    {
+      "count": 1,
+      "alfa": "U",
+      "id": 18
+    },
+    {
+      "count": 0,
+      "alfa": "H",
+      "id": 19
+    },
+    {
+      "count": 1,
+      "alfa": "Y",
+      "id": 20
     }
   ]
 }
