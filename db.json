@@ -1,37 +1,48 @@
 {
-  "hotelData": [
+  "data": [
     {
-      "category": "suite",
-      "bed_type": "double",
-      "type_of_room": "AC",
-      "image_url": "https://thumbs.dreamstime.com/b/hotel-10732347.jpg",
-      "no_of_persons": "5",
-      "capacity": "5",
-      "cost": "3000",
-      "booked": true,
+      "name": "abhi",
+      "age": "18",
+      "gender": "Male",
+      "department": "backend ",
+      "salary": 40000,
+      "id": 2
+    },
+    {
+      "name": "akash",
+      "age": "18",
+      "gender": "Male",
+      "department": "front end ",
+      "salary": 50000,
       "id": 3
     },
     {
-      "category": "family",
-      "bed_type": "double",
-      "type_of_room": "AC",
-      "image_url": "https://thumbs.dreamstime.com/b/hotel-10732347.jpg",
-      "no_of_persons": "5",
-      "capacity": "5",
-      "cost": "1000",
-      "booked": false,
-      "id": 1
+      "name": "mnoj",
+      "age": "18",
+      "gender": "Male",
+      "department": "full stack ",
+      "salary": 50000,
+      "id": 4
     },
+
     {
-      "category": "suite",
-      "bed_type": "double",
-      "type_of_room": "AC",
-      "image_url": "https://thumbs.dreamstime.com/b/hotel-10732347.jpg",
-      "no_of_persons": "5",
-      "capacity": "5",
-      "cost": "3000",
-      "booked": true,
-      "id": 2
+      "name": "mnoj",
+      "age": "18",
+      "gender": "Male",
+      "department": "full stack ",
+      "salary": 50000,
+      "id": 4
+    },
+
+    {
+      "name": "mnoj",
+      "age": "18",
+      "gender": "Male",
+      "department": "full stack ",
+      "salary": 50000,
+      "id": 4
     }
+
+
   ]
 }
