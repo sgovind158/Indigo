@@ -1,48 +1,102 @@
 {
-  "data": [
+  "doctor": [
     {
-      "name": "abhi",
-      "age": "18",
-      "gender": "Male",
-      "department": "backend ",
-      "salary": 40000,
-      "id": 2
-    },
-    {
-      "name": "akash",
-      "age": "18",
-      "gender": "Male",
-      "department": "front end ",
-      "salary": 50000,
-      "id": 3
-    },
-    {
-      "name": "mnoj",
-      "age": "18",
-      "gender": "Male",
-      "department": "full stack ",
-      "salary": 50000,
-      "id": 4
+      "id": 1,
+      "name":"rayon",
+      "gender":"Male",
+      "age":50,
+      "img":"https://thumbs.dreamstime.com/z/vector-illustration-avatar-dummy-logo-collection-image-icon-stock-isolated-object-set-symbol-web-137160339.jpg",
+      "medicines":[{
+                      "medicinename" :"Acetaminophen ",
+                      "qty" :10
+               }]
+     
+     
     },
 
     {
-      "name": "mnoj",
-      "age": "18",
-      "gender": "Male",
-      "department": "full stack ",
-      "salary": 50000,
-      "id": 4
+      "id": 2,
+      "name":"Ranveer",
+      "gender":"Male",
+      "age":40,
+      "img":"https://thumbs.dreamstime.com/z/vector-illustration-avatar-dummy-logo-collection-image-icon-stock-isolated-object-set-symbol-web-137160339.jpg",
+      "medicines":[{
+                      "medicinename" :"Abilify Maintena",
+                      "qty" :15
+               }]
+     
+     
     },
 
     {
-      "name": "mnoj",
-      "age": "18",
-      "gender": "Male",
-      "department": "full stack ",
-      "salary": 50000,
-      "id": 4
+      "id": 3,
+      "name":"Rian",
+      "gender":"Male",
+      "age":20,
+      "img":"https://thumbs.dreamstime.com/z/vector-illustration-avatar-dummy-logo-collection-image-icon-stock-isolated-object-set-symbol-web-137160339.jpg",
+      "medicines":[{
+                      "medicinename" :"Yohimbe",
+                      "qty" :20
+               }]
+     
+     
+    },
+
+    {
+      "id": 4,
+      "name":"Rudra",
+      "gender":"Male",
+      "age":30,
+      "img":"https://thumbs.dreamstime.com/z/vector-illustration-avatar-dummy-logo-collection-image-icon-stock-isolated-object-set-symbol-web-137160339.jpg",
+      "medicines":[{
+                      "medicinename" :"Hydrocodone",
+                      "qty" :30
+               }]
+     
+     
+    },
+
+    {
+      "id": 5,
+      "name":"Ribhav",
+      "gender":"Male",
+      "age":35,
+      "img":"https://thumbs.dreamstime.com/z/vector-illustration-avatar-dummy-logo-collection-image-icon-stock-isolated-object-set-symbol-web-137160339.jpg",
+      "medicines":[{
+                      "medicinename" :"Dabigatran",
+                      "qty" :5
+               }]
+     
+     
+    },
+
+    {
+      "id": 6,
+      "name":"Rani",
+      "gender":"female",
+      "age":70,
+      "img":"https://thumbs.dreamstime.com/z/vector-illustration-avatar-dummy-logo-set-image-stock-isolated-object-icon-collection-137161298.jpg",
+      "medicines":[{
+                      "medicinename" :"Nabumetone",
+                      "qty" :6
+               }]
+     
+     
+    },
+
+    {
+      "id": 7,
+      "name":"Ranu",
+      "gender":"female",
+      "age":55,
+      "img":"https://thumbs.dreamstime.com/z/vector-illustration-avatar-dummy-logo-set-image-stock-isolated-object-icon-collection-137161298.jpg",
+      "medicines":[{
+                      "medicinename" :"Yasmin",
+                      "qty" :8
+               }]
+     
+     
     }
-
-
   ]
+ 
 }
