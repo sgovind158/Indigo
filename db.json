@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name":"rayon",
-      "gender":"Male",
+      "gender":"male",
       "age":50,
       "img":"https://thumbs.dreamstime.com/z/vector-illustration-avatar-dummy-logo-collection-image-icon-stock-isolated-object-set-symbol-web-137160339.jpg",
       "medicines":[{
@@ -17,7 +17,7 @@
     {
       "id": 2,
       "name":"Ranveer",
-      "gender":"Male",
+      "gender":"male",
       "age":40,
       "img":"https://thumbs.dreamstime.com/z/vector-illustration-avatar-dummy-logo-collection-image-icon-stock-isolated-object-set-symbol-web-137160339.jpg",
       "medicines":[{
@@ -31,7 +31,7 @@
     {
       "id": 3,
       "name":"Rian",
-      "gender":"Male",
+      "gender":"male",
       "age":20,
       "img":"https://thumbs.dreamstime.com/z/vector-illustration-avatar-dummy-logo-collection-image-icon-stock-isolated-object-set-symbol-web-137160339.jpg",
       "medicines":[{
@@ -45,7 +45,7 @@
     {
       "id": 4,
       "name":"Rudra",
-      "gender":"Male",
+      "gender":"male",
       "age":30,
       "img":"https://thumbs.dreamstime.com/z/vector-illustration-avatar-dummy-logo-collection-image-icon-stock-isolated-object-set-symbol-web-137160339.jpg",
       "medicines":[{
@@ -59,7 +59,7 @@
     {
       "id": 5,
       "name":"Ribhav",
-      "gender":"Male",
+      "gender":"male",
       "age":35,
       "img":"https://thumbs.dreamstime.com/z/vector-illustration-avatar-dummy-logo-collection-image-icon-stock-isolated-object-set-symbol-web-137160339.jpg",
       "medicines":[{
